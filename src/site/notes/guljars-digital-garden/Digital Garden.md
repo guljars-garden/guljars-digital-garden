@@ -14,3 +14,5 @@
 - [Features](https://dg-docs.ole.dev/features/)
 - [Troubleshooting](https://dg-docs.ole.dev/troubleshooting/)
 - 
+
+Go to [[guljars-digital-garden/guljars-digital-garden Home\|guljars-digital-garden Home]]?
