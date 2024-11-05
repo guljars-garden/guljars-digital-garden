@@ -10,7 +10,7 @@ Welcome, Check Out [[guljars-digital-garden/Digital Garden\|Digital Garden]] or 
 ## Today's Ayat:
 ### 4:148
 
-۞ لَّا يُحِبُّ ٱللَّهُ ٱلْجَهْرَ بِٱلسُّوٓءِ مِنَ ٱلْقَوْلِ إِلَّا مَن ظُلِمَ ۚ وَكَانَ ٱللَّهُ سَمِيعًا عَلِيمًا ١٤٨
+۞ لَّا يُحِبُّ ٱللَّهُ ٱلْجَهْرَ بِٱلسُّوٓءِ مِنَ ٱلْقَوْلِ إِلَّا مَن ظُلِمَ ۚ وَكَانَ ٱللَّهُ سَمِيعًا عَلِيمًا
 
 __Allah loveth not the utterance of harsh speech save by one who hath been wronged. Allah is ever Hearer, Knower.__  
 — M. Pickthall
