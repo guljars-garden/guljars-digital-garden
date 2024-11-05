@@ -5,6 +5,4 @@
 # Home
 This is the **Homepage** of guljars-digital-garden
 ___
-Welcome, Maybe go to [[guljars-digital-garden/another note\|another note]]?
-
-
+Welcome,  Check Out [[guljars-digital-garden/Digital Garden\|Digital Garden]] or go to [[guljars-digital-garden/another note\|another note]]? 
